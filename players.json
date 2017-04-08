@@ -1,0 +1,3328 @@
+{
+    "data": [
+    {
+            "dob": 533433600000,
+            "fullName": "Suresh Raina",
+            "nationality": "Indian",
+            "playerId": 14,
+            "price": 1000000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "S Raina",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": false
+    },
+    {
+            "dob": 736992000000,
+            "fullName": "Akshdeep Nath",
+            "nationality": "Indian",
+            "playerId": 3177,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "A Nath",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": true
+    },
+    {
+            "dob": 753840000000,
+            "fullName": "Shubham Agarwal",
+            "nationality": "Indian",
+            "playerId": 3826,
+            "price": 600000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "S Agarwal",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": true
+    },
+    {
+            "dob": 747705600000,
+            "fullName": "Basil Thampi",
+            "nationality": "Indian",
+            "playerId": 3825,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "B Thampi",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": true
+    },
+    {
+            "dob": 434332800000,
+            "fullName": "Dwayne Bravo",
+            "nationality": "West Indian",
+            "playerId": 25,
+            "price": 950000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "DJ Bravo",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": false
+    },
+    {
+            "dob": 793065600000,
+            "fullName": "Chirag Suri",
+            "nationality": "Emirati",
+            "playerId": 1687,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "C Suri",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": false
+    },
+    {
+            "dob": 641347200000,
+            "fullName": "James Faulkner",
+            "nationality": "Australian",
+            "playerId": 193,
+            "price": 950000,
+            "rightArmBat": true,
+            "rightArmBowl": false,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "J Faulkner",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": false
+    },
+    {
+            "dob": 532569600000,
+            "fullName": "Aaron Finch",
+            "nationality": "Australian",
+            "playerId": 167,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": false,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "A Finch",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": false
+    },
+    {
+            "dob": 441763200000,
+            "fullName": "Manpreet Gony",
+            "nationality": "Indian",
+            "playerId": 40,
+            "price": 800000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "M Gony",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": false
+    },
+    {
+            "dob": 900720000000,
+            "fullName": "Ishan Kishan",
+            "nationality": "Indian",
+            "playerId": 2975,
+            "price": 750000,
+            "rightArmBat": false,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "I Kishan",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": true
+    },
+    {
+            "dob": 597369600000,
+            "fullName": "Ravindra Jadeja",
+            "nationality": "Indian",
+            "playerId": 9,
+            "price": 950000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "R Jadeja",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": false
+    },
+    {
+            "dob": 344131200000,
+            "fullName": "Shadab Jakati",
+            "nationality": "Indian",
+            "playerId": 10,
+            "price": 750000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "S Jakati",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": true
+    },
+    {
+            "dob": 486432000000,
+            "fullName": "Dinesh Karthik",
+            "nationality": "Indian",
+            "playerId": 102,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "keeper",
+        "batsman"
+            ],
+            "shortName": "D Karthik",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": false
+    },
+    {
+            "dob": 805248000000,
+            "fullName": "Shivil Kaushik",
+            "nationality": "Indian",
+            "playerId": 3178,
+            "price": 700000,
+            "rightArmBat": true,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "S Kaushik",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": true
+    },
+    {
+            "dob": 597715200000,
+            "fullName": "Dhawal Kulkarni",
+            "nationality": "Indian",
+            "playerId": 101,
+            "price": 800000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "D Kulkarni",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": false
+    },
+    {
+            "dob": 528595200000,
+            "fullName": "Praveen Kumar",
+            "nationality": "Indian",
+            "playerId": 77,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "P Kumar",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": false
+    },
+    {
+            "dob": 370396800000,
+            "fullName": "Brendon McCullum",
+            "nationality": "New Zealander",
+            "playerId": 202,
+            "price": 950000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "keeper",
+        "batsman"
+            ],
+            "shortName": "B McCullum",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": false
+    },
+    {
+            "dob": 426816000000,
+            "fullName": "Munaf Patel",
+            "nationality": "Indian",
+            "playerId": 104,
+            "price": 750000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "M Patel",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": false
+    },
+    {
+            "dob": 715219200000,
+            "fullName": "Pratham Singh",
+            "nationality": "Indian",
+            "playerId": 3828,
+            "price": 650000,
+            "rightArmBat": false,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "P Singh",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": true
+    },
+    {
+            "dob": 648518400000,
+            "fullName": "Jason Roy",
+            "nationality": "English",
+            "playerId": 1906,
+            "price": 950000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "J Roy",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": false
+    },
+    {
+            "dob": 657763200000,
+            "fullName": "Pradeep Sangwan",
+            "nationality": "Indian",
+            "playerId": 91,
+            "price": 700000,
+            "rightArmBat": true,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "P Sangwan",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": true
+    },
+    {
+            "dob": 420854400000,
+            "fullName": "Jaydev Shah",
+            "nationality": "Indian",
+            "playerId": 265,
+            "price": 600000,
+            "rightArmBat": false,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "J Shah",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": true
+    },
+    {
+            "dob": 748224000000,
+            "fullName": "Shelley Shaurya",
+            "nationality": "Indian",
+            "playerId": 3829,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "S Shaurya",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": true
+    },
+    {
+            "dob": 810518400000,
+            "fullName": "Nathu Singh",
+            "nationality": "Indian",
+            "playerId": 3186,
+            "price": 800000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "N Singh",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": true
+    },
+    {
+            "dob": 418953600000,
+            "fullName": "Dwayne Smith",
+            "nationality": "West Indian",
+            "playerId": 413,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "DR Smith",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": false
+    },
+    {
+            "dob": 823132800000,
+            "fullName": "Tejas Baroka",
+            "nationality": "Indian",
+            "playerId": 3827,
+            "price": 600000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "T Baroka",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": true
+    },
+    {
+            "dob": 534729600000,
+            "fullName": "Andrew Tye",
+            "nationality": "Australian",
+            "playerId": 1480,
+            "price": 700000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "A Tye",
+            "teamAbbreviation": "GL",
+            "teamId": 433,
+            "uncapped": false
+    },
+    {
+            "dob": 276566400000,
+            "fullName": "Zaheer Khan",
+            "nationality": "Indian",
+            "playerId": 165,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "Z Khan",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": false
+    },
+    {
+            "dob": 724550400000,
+            "fullName": "Ankit Bawne",
+            "nationality": "Indian",
+            "playerId": 3823,
+            "price": 700000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "A Bawne",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": true
+    },
+    {
+            "dob": 881280000000,
+            "fullName": "Khaleel Ahmed",
+            "nationality": "Indian",
+            "playerId": 2964,
+            "price": 600000,
+            "rightArmBat": true,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "K Ahmed",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": true
+    },
+    {
+            "dob": 661046400000,
+            "fullName": "Corey Anderson",
+            "nationality": "New Zealander",
+            "playerId": 968,
+            "price": 950000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "C Anderson",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": false
+    },
+    {
+            "dob": 652752000000,
+            "fullName": "Murugan Ashwin",
+            "nationality": "Indian",
+            "playerId": 3187,
+            "price": 750000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "M Ashwin",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": true
+    },
+    {
+            "dob": 676944000000,
+            "fullName": "Sam Billings",
+            "nationality": "English",
+            "playerId": 2756,
+            "price": 800000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "keeper",
+        "batsman"
+            ],
+            "shortName": "S Billings",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": false
+    },
+    {
+            "dob": 585187200000,
+            "fullName": "Carlos Brathwaite",
+            "nationality": "West Indian",
+            "playerId": 2722,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "C Brathwaite",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": false
+    },
+    {
+            "dob": 736819200000,
+            "fullName": "Pat Cummins",
+            "nationality": "Australian",
+            "playerId": 488,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "P Cummins",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": false
+    },
+    {
+            "dob": 724550400000,
+            "fullName": "Quinton de Kock",
+            "nationality": "South African",
+            "playerId": 834,
+            "price": 950000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "keeper",
+        "batsman"
+            ],
+            "shortName": "Q de Kock",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": false
+    },
+    {
+            "dob": 450748800000,
+            "fullName": "JP Duminy",
+            "injured": true,
+            "nationality": "South African",
+            "playerId": 182,
+            "price": 1000000,
+            "rightArmBat": false,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "JP Duminy",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": false
+    },
+    {
+            "dob": 786672000000,
+            "fullName": "Shreyas Iyer",
+            "nationality": "Indian",
+            "playerId": 1563,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "S Iyer",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": true
+    },
+    {
+            "dob": 549590400000,
+            "fullName": "Angelo Mathews",
+            "nationality": "Sri Lankan",
+            "playerId": 217,
+            "price": 1000000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "A Mathews",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": false
+    },
+    {
+            "dob": 778636800000,
+            "fullName": "CV Milind",
+            "nationality": "Indian",
+            "playerId": 1559,
+            "price": 600000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "CV Milind",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": true
+    },
+    {
+            "dob": 406944000000,
+            "fullName": "Amit Mishra",
+            "nationality": "Indian",
+            "playerId": 30,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "A Mishra",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": false
+    },
+    {
+            "dob": 636940800000,
+            "fullName": "Mohammed Shami",
+            "nationality": "Indian",
+            "playerId": 94,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "M Shami",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": false
+    },
+    {
+            "dob": 546739200000,
+            "fullName": "Chris Morris",
+            "nationality": "South African",
+            "playerId": 836,
+            "price": 1000000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "C Morris",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": false
+    },
+    {
+            "dob": 618883200000,
+            "fullName": "Shahbaz Nadeem",
+            "nationality": "Indian",
+            "playerId": 57,
+            "price": 800000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "S Nadeem",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": true
+    },
+    {
+            "dob": 691977600000,
+            "fullName": "Karun Nair",
+            "nationality": "Indian",
+            "playerId": 276,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "K Nair",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": false
+    },
+    {
+            "dob": 875923200000,
+            "fullName": "Rishabh Pant",
+            "nationality": "Indian",
+            "playerId": 2972,
+            "price": 800000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "keeper",
+        "batsman"
+            ],
+            "shortName": "R Pant",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": false
+    },
+    {
+            "dob": 778636800000,
+            "fullName": "Pratyush Singh",
+            "nationality": "Indian",
+            "playerId": 2731,
+            "price": 650000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "P Singh",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": true
+    },
+    {
+            "dob": 801360000000,
+            "fullName": "Kagiso Rabada",
+            "nationality": "South African",
+            "playerId": 1664,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "K Rabada",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": false
+    },
+    {
+            "dob": 722476800000,
+            "fullName": "Navdeep Saini",
+            "nationality": "Indian",
+            "playerId": 3824,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "N Saini",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": true
+    },
+    {
+            "dob": 784512000000,
+            "fullName": "Sanju Samson",
+            "nationality": "Indian",
+            "playerId": 258,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "keeper",
+        "batsman"
+            ],
+            "shortName": "S Samson",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": false
+    },
+    {
+            "dob": 690681600000,
+            "fullName": "Shashank Singh",
+            "nationality": "Indian",
+            "playerId": 3261,
+            "price": 650000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "S Singh",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": true
+    },
+    {
+            "dob": 1330300800000,
+            "fullName": "Aditya Tare",
+            "nationality": "Indian",
+            "playerId": 99,
+            "price": 750000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "keeper",
+        "batsman"
+            ],
+            "shortName": "A Tare",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": true
+    },
+    {
+            "dob": 632966400000,
+            "fullName": "Jayant Yadav",
+            "nationality": "Indian",
+            "playerId": 1740,
+            "price": 800000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "J Yadav",
+            "teamAbbreviation": "DD",
+            "teamId": 3,
+            "uncapped": false
+    },
+    {
+            "dob": 612748800000,
+            "fullName": "Steve Smith",
+            "nationality": "Australian",
+            "playerId": 271,
+            "price": 950000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "S Smith",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": false
+    },
+    {
+            "dob": 666835200000,
+            "fullName": "Mayank Agarwal",
+            "nationality": "Indian",
+            "playerId": 158,
+            "price": 800000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "M Agarwal",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": true
+    },
+    {
+            "dob": 672105600000,
+            "fullName": "Ankit Sharma",
+            "nationality": "Indian",
+            "playerId": 32,
+            "price": 650000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "A Sharma",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": true
+    },
+    {
+            "dob": 773625600000,
+            "fullName": "Baba Aparajith",
+            "nationality": "Indian",
+            "playerId": 1084,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "B Aparajith",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": true
+    },
+    {
+            "dob": 527299200000,
+            "fullName": "Ravichandran Ashwin",
+            "injured": true,
+            "nationality": "Indian",
+            "playerId": 8,
+            "price": 950000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "R Ashwin",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": false
+    },
+    {
+            "dob": 819072000000,
+            "fullName": "Ankush Bains",
+            "nationality": "Indian",
+            "playerId": 1558,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "keeper",
+        "batsman"
+            ],
+            "shortName": "A Bains",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": true
+    },
+    {
+            "dob": 309398400000,
+            "fullName": "Rajat Bhatia",
+            "nationality": "Indian",
+            "playerId": 92,
+            "price": 800000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "R Bhatia",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": true
+    },
+    {
+            "dob": 713145600000,
+            "fullName": "Deepak Chahar",
+            "nationality": "Indian",
+            "playerId": 140,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "D Chahar",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": true
+    },
+    {
+            "dob": 933724800000,
+            "fullName": "Rahul Chahar",
+            "nationality": "Indian",
+            "playerId": 3763,
+            "price": 700000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "R Chahar",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": true
+    },
+    {
+            "dob": 420854400000,
+            "fullName": "Dan Christian",
+            "nationality": "Australian",
+            "playerId": 181,
+            "price": 800000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "D Christian",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": false
+    },
+    {
+            "dob": 363312000000,
+            "fullName": "Mahendra Singh Dhoni",
+            "nationality": "Indian",
+            "playerId": 1,
+            "price": 950000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "keeper",
+        "batsman"
+            ],
+            "shortName": "MS Dhoni",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": false
+    },
+    {
+            "dob": 449020800000,
+            "fullName": "Ashok Dinda",
+            "nationality": "Indian",
+            "playerId": 48,
+            "price": 700000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "A Dinda",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": false
+    },
+    {
+            "dob": 458524800000,
+            "fullName": "Faf du Plessis",
+            "nationality": "South African",
+            "playerId": 24,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "F du Plessis",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": false
+    },
+    {
+            "dob": 676771200000,
+            "fullName": "Lockie Ferguson",
+            "nationality": "New Zealand",
+            "playerId": 3729,
+            "price": 600000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "L Ferguson",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": false
+    },
+    {
+            "dob": 291340800000,
+            "fullName": "Imran Tahir",
+            "nationality": "South African",
+            "playerId": 898,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "I Tahir",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": false
+    },
+    {
+            "dob": 620870400000,
+            "fullName": "Jaskaran Singh",
+            "nationality": "Indian",
+            "playerId": 395,
+            "price": 600000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "J Singh",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": true
+    },
+    {
+            "dob": 535248000000,
+            "fullName": "Usman Khawaja",
+            "nationality": "Australian",
+            "playerId": 948,
+            "price": 850000,
+            "rightArmBat": false,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "U Khawaja",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": false
+    },
+    {
+            "dob": 581558400000,
+            "fullName": "Ajinkya Rahane",
+            "nationality": "Indian",
+            "playerId": 135,
+            "price": 950000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "A Rahane",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": false
+    },
+    {
+            "dob": 736214400000,
+            "fullName": "Saurabh Kumar",
+            "nationality": "Indian",
+            "playerId": 3836,
+            "price": 650000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "S Kumar",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": true
+    },
+    {
+            "dob": 675993600000,
+            "fullName": "Ben Stokes",
+            "nationality": "English",
+            "playerId": 1154,
+            "price": 1100000,
+            "rightArmBat": false,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "B Stokes",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": false
+    },
+    {
+            "dob": 751852800000,
+            "fullName": "Milind Tandon",
+            "nationality": "Indian",
+            "playerId": 3837,
+            "price": 800000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "M Tandon",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": true
+    },
+    {
+            "dob": 500774400000,
+            "fullName": "Manoj Tiwary",
+            "nationality": "Indian",
+            "playerId": 89,
+            "price": 750000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "M Tiwary",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": false
+    },
+    {
+            "dob": 702000000000,
+            "fullName": "Adam Zampa",
+            "nationality": "Australian",
+            "playerId": 958,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "A Zampa",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": false
+    },
+    {
+            "dob": 687744000000,
+            "fullName": "Jaydev Unadkat",
+            "nationality": "Indian",
+            "playerId": 86,
+            "price": 750000,
+            "rightArmBat": true,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "J Unadkat",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": false
+    },
+    {
+            "dob": 619142400000,
+            "fullName": "Ishwar Pandey",
+            "nationality": "Indian",
+            "playerId": 1090,
+            "price": 700000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "I Pandey",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": true
+    },
+    {
+            "dob": 667872000000,
+            "fullName": "Rahul Tripathi",
+            "nationality": "Indian",
+            "playerId": 3838,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "R Tripathi",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": true
+    },
+    {
+            "dob": 687571200000,
+            "fullName": "Shardul Thakur",
+            "nationality": "Indian",
+            "playerId": 1745,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "S Thakur",
+            "teamAbbreviation": "RPS",
+            "teamId": 434,
+            "uncapped": true
+    },
+    {
+            "dob": 530755200000,
+            "fullName": "David Warner",
+            "nationality": "Australian",
+            "playerId": 170,
+            "price": 1050000,
+            "rightArmBat": false,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "D Warner",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": false
+    },
+    {
+            "dob": 799459200000,
+            "fullName": "Tanmay Agarwal",
+            "nationality": "Indian",
+            "playerId": 3839,
+            "price": 650000,
+            "rightArmBat": false,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "T Agarwal",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": true
+    },
+    {
+            "dob": 843955200000,
+            "fullName": "Ricky Bhui",
+            "nationality": "Indian",
+            "playerId": 1555,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "R Bhui",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": true
+    },
+    {
+            "dob": 433555200000,
+            "fullName": "Bipul Sharma",
+            "nationality": "Indian",
+            "playerId": 69,
+            "price": 650000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "B Sharma",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": true
+    },
+    {
+            "dob": 538963200000,
+            "fullName": "Ben Cutting",
+            "nationality": "Australian",
+            "playerId": 913,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "B Cutting",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": false
+    },
+    {
+            "dob": 502588800000,
+            "fullName": "Shikhar Dhawan",
+            "nationality": "Indian",
+            "playerId": 41,
+            "price": 950000,
+            "rightArmBat": false,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "S Dhawan",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": false
+    },
+    {
+            "dob": 585532800000,
+            "fullName": "Eklavya Dwivedi",
+            "nationality": "Indian",
+            "playerId": 118,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "keeper",
+        "batsman"
+            ],
+            "shortName": "E Dwivedi",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": true
+    },
+    {
+            "dob": 539136000000,
+            "fullName": "Moises Henriques",
+            "nationality": "Australian",
+            "playerId": 388,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "M Henriques",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": false
+    },
+    {
+            "dob": 798249600000,
+            "fullName": "Deepak Hooda",
+            "nationality": "Indian",
+            "playerId": 1556,
+            "price": 750000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "D Hooda",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": true
+    },
+    {
+            "dob": 591926400000,
+            "fullName": "Chris Jordan",
+            "nationality": "English",
+            "playerId": 1299,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "C Jordan",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": false
+    },
+    {
+            "dob": 643075200000,
+            "fullName": "Siddarth Kaul",
+            "nationality": "Indian",
+            "playerId": 1086,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "S Kaul",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": true
+    },
+    {
+            "dob": 660355200000,
+            "fullName": "Bhuvneshwar Kumar",
+            "nationality": "Indian",
+            "playerId": 116,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "B Kumar",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": false
+    },
+    {
+            "dob": 402451200000,
+            "fullName": "Ben Laughlin",
+            "nationality": "Australian",
+            "playerId": 921,
+            "price": 800000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "B Laughlin",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": false
+    },
+    {
+            "dob": 625276800000,
+            "fullName": "Abhimanyu Mithun",
+            "nationality": "Indian",
+            "playerId": 151,
+            "price": 600000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "A Mithun",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": false
+    },
+    {
+            "dob": 473385600000,
+            "fullName": "Mohammad Nabi",
+            "nationality": "Afghan",
+            "playerId": 618,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "M Nabi",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": false
+    },
+    {
+            "dob": 763516800000,
+            "fullName": "Mohammed Siraj",
+            "nationality": "Indian",
+            "playerId": 3840,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "M Siraj",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": true
+    },
+    {
+            "dob": 810345600000,
+            "fullName": "Mustafizur Rahman",
+            "nationality": "Bangladeshi",
+            "playerId": 1594,
+            "price": 900000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "Mustafizur Rahman",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": false
+    },
+    {
+            "dob": 294192000000,
+            "fullName": "Ashish Nehra",
+            "nationality": "Indian",
+            "playerId": 115,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "A Nehra",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": false
+    },
+    {
+            "dob": 427507200000,
+            "fullName": "Naman Ojha",
+            "nationality": "Indian",
+            "playerId": 52,
+            "price": 750000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "keeper",
+        "batsman"
+            ],
+            "shortName": "N Ojha",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": false
+    },
+    {
+            "dob": 906249600000,
+            "fullName": "Rashid Khan",
+            "nationality": "Afghan",
+            "playerId": 2885,
+            "price": 750000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "R Khan",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": false
+    },
+    {
+            "dob": 664848000000,
+            "fullName": "Vijay Shankar",
+            "nationality": "Indian",
+            "playerId": 1083,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "V Shankar",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": true
+    },
+    {
+            "dob": 723945600000,
+            "fullName": "Barinder Sran",
+            "nationality": "Indian",
+            "playerId": 2746,
+            "price": 800000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "B Sran",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": false
+    },
+    {
+            "dob": 55728000000,
+            "fullName": "Pravin Tambe",
+            "nationality": "Indian",
+            "playerId": 1114,
+            "price": 700000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "P Tambe",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": true
+    },
+    {
+            "dob": 650073600000,
+            "fullName": "Kane Williamson",
+            "nationality": "New Zealander",
+            "playerId": 440,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "k Williamson",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": false
+    },
+    {
+            "dob": 376963200000,
+            "fullName": "Yuvraj Singh",
+            "nationality": "Indian",
+            "playerId": 113,
+            "price": 1000000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "Y Singh",
+            "teamAbbreviation": "SRH",
+            "teamId": 62,
+            "uncapped": false
+    },
+    {
+            "dob": 594691200000,
+            "fullName": "Virat Kohli",
+            "nationality": "Indian",
+            "playerId": 164,
+            "price": 1100000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "V Kohli",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": false
+    },
+    {
+            "dob": 450230400000,
+            "fullName": "Sreenath Aravind",
+            "nationality": "Indian",
+            "playerId": 162,
+            "price": 750000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "S Aravind",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": false
+    },
+    {
+            "dob": 850435200000,
+            "fullName": "Avesh Khan",
+            "nationality": "Indian",
+            "playerId": 1561,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "A Khan",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": true
+    },
+    {
+            "dob": 352944000000,
+            "fullName": "Samuel Badree",
+            "nationality": "West Indian",
+            "playerId": 590,
+            "price": 800000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "S Badree",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": false
+    },
+    {
+            "dob": 455068800000,
+            "fullName": "Stuart Binny",
+            "nationality": "Indian",
+            "playerId": 148,
+            "price": 750000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "S Binny",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": false
+    },
+    {
+            "dob": 648691200000,
+            "fullName": "Yuzvendra Chahal",
+            "nationality": "Indian",
+            "playerId": 111,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "Y Chahal",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": false
+    },
+    {
+            "dob": 633484800000,
+            "fullName": "Aniket Choudhary",
+            "nationality": "Indian",
+            "playerId": 1111,
+            "price": 700000,
+            "rightArmBat": true,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "A Choudhary",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": true
+    },
+    {
+            "dob": 445824000000,
+            "fullName": "AB de Villiers",
+            "nationality": "South African",
+            "playerId": 233,
+            "price": 1100000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "keeper",
+        "batsman"
+            ],
+            "shortName": "AB de Villiers",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": false
+    },
+    {
+            "dob": 741484800000,
+            "fullName": "Praveen Dubey",
+            "nationality": "Indian",
+            "playerId": 3188,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "P Dubey",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": true
+    },
+    {
+            "dob": 306720000000,
+            "fullName": "Chris Gayle",
+            "nationality": "West Indian",
+            "playerId": 236,
+            "price": 1000000,
+            "rightArmBat": false,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "C Gayle",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": false
+    },
+    {
+            "dob": 757123200000,
+            "fullName": "Travis Head",
+            "nationality": "Australian",
+            "playerId": 1020,
+            "price": 800000,
+            "rightArmBat": false,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "TM Head",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": false
+    },
+    {
+            "dob": 628560000000,
+            "fullName": "Iqbal Abdulla",
+            "nationality": "Indian",
+            "playerId": 85,
+            "price": 650000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "I Abdulla",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": true
+    },
+    {
+            "dob": 480643200000,
+            "fullName": "Kedar Jadhav",
+            "nationality": "Indian",
+            "playerId": 297,
+            "price": 800000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "keeper",
+        "batsman"
+            ],
+            "shortName": "K Jadhav",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": false
+    },
+    {
+            "dob": 877478400000,
+            "fullName": "Sarfaraz Khan",
+            "nationality": "Indian",
+            "playerId": 1564,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "S Khan",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": true
+    },
+    {
+            "dob": 693014400000,
+            "fullName": "Mandeep Singh",
+            "nationality": "Indian",
+            "playerId": 72,
+            "price": 700000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "M Singh",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": false
+    },
+    {
+            "dob": 713577600000,
+            "fullName": "Tymal Mills",
+            "nationality": "English",
+            "playerId": 3319,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "T Mills",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": false
+    },
+    {
+            "dob": 703123200000,
+            "fullName": "Adam Milne",
+            "nationality": "New Zealander",
+            "playerId": 434,
+            "price": 800000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "A Milne",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": false
+    },
+    {
+            "dob": 410659200000,
+            "fullName": "Pawan Negi",
+            "nationality": "Indian",
+            "playerId": 53,
+            "price": 800000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "P Negi",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": false
+    },
+    {
+            "dob": 659318400000,
+            "fullName": "Harshal Patel",
+            "nationality": "Indian",
+            "playerId": 157,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "H Patel",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": true
+    },
+    {
+            "dob": 703555200000,
+            "fullName": "Lokesh Rahul",
+            "injured": true,
+            "nationality": "Indian",
+            "playerId": 1125,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "keeper",
+        "batsman"
+            ],
+            "shortName": "L Rahul",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": false
+    },
+    {
+            "dob": 598406400000,
+            "fullName": "Sachin Baby",
+            "nationality": "Indian",
+            "playerId": 1115,
+            "price": 600000,
+            "rightArmBat": false,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "S Baby",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": true
+    },
+    {
+            "dob": 635299200000,
+            "fullName": "Tabraiz Shamsi",
+            "nationality": "South African",
+            "playerId": 3309,
+            "price": 800000,
+            "rightArmBat": true,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "T Shamsi",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": false
+    },
+    {
+            "dob": 783907200000,
+            "fullName": "Billy Stanlake",
+            "nationality": "Australian",
+            "playerId": 1521,
+            "price": 650000,
+            "rightArmBat": false,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "B Stanlake",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": false
+    },
+    {
+            "dob": 361584000000,
+            "fullName": "Shane Watson",
+            "nationality": "Australian",
+            "playerId": 227,
+            "price": 1000000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "S Watson",
+            "teamAbbreviation": "RCB",
+            "teamId": 9,
+            "uncapped": false
+    },
+    {
+            "dob": 546739200000,
+            "fullName": "Rohit Sharma",
+            "nationality": "Indian",
+            "playerId": 107,
+            "price": 1050000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "RG Sharma",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": false
+    },
+    {
+            "dob": 755136000000,
+            "fullName": "Jasprit Bumrah",
+            "nationality": "Indian",
+            "playerId": 1124,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "J Bumrah",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": false
+    },
+    {
+            "dob": 652752000000,
+            "fullName": "Jos Buttler",
+            "nationality": "English",
+            "playerId": 509,
+            "price": 950000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "keeper",
+        "batsman"
+            ],
+            "shortName": "J Buttler",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": false
+    },
+    {
+            "dob": 747100800000,
+            "fullName": "Shreyas Gopal",
+            "nationality": "Indian",
+            "playerId": 1748,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "S Gopal",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": true
+    },
+    {
+            "dob": 593308800000,
+            "fullName": "Krishnappa Gowtham",
+            "nationality": "Indian",
+            "playerId": 3834,
+            "price": 600000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "K Gowtham",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": true
+    },
+    {
+            "dob": 505526400000,
+            "fullName": "Asela Gunaratne",
+            "nationality": "Sri Lankan",
+            "playerId": 3153,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "A Gunaratne",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": false
+    },
+    {
+            "dob": 331430400000,
+            "fullName": "Harbhajan Singh",
+            "nationality": "Indian",
+            "playerId": 103,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "H Singh",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": false
+    },
+    {
+            "dob": 373507200000,
+            "fullName": "Mitchell Johnson",
+            "nationality": "Australian",
+            "playerId": 213,
+            "price": 900000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "M Johnson",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": false
+    },
+    {
+            "dob": 794102400000,
+            "fullName": "Kulwant Khejroliya",
+            "nationality": "Indian",
+            "playerId": 3835,
+            "price": 600000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "K Khejroliya",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": true
+    },
+    {
+            "dob": 706579200000,
+            "fullName": "Siddhesh Lad",
+            "nationality": "Indian",
+            "playerId": 2739,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "SD Lad",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": true
+    },
+    {
+            "dob": 518832000000,
+            "fullName": "Mitchell McClenaghan",
+            "nationality": "New Zealander",
+            "playerId": 730,
+            "price": 850000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "M McClenaghan",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": false
+    },
+    {
+            "dob": 430876800000,
+            "fullName": "Lasith Malinga",
+            "nationality": "Sri Lankan",
+            "playerId": 211,
+            "price": 950000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "L Malinga",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": false
+    },
+    {
+            "dob": 750297600000,
+            "fullName": "Hardik Pandya",
+            "nationality": "Indian",
+            "playerId": 2740,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "H Pandya",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": false
+    },
+    {
+            "dob": 669772800000,
+            "fullName": "Krunal Pandya",
+            "nationality": "Indian",
+            "playerId": 3183,
+            "price": 750000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "K Pandya",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": true
+    },
+    {
+            "dob": 479174400000,
+            "fullName": "Parthiv Patel",
+            "nationality": "Indian",
+            "playerId": 44,
+            "price": 850000,
+            "rightArmBat": false,
+            "rightArmBowl": true,
+            "role": [
+        "keeper",
+        "batsman"
+            ],
+            "shortName": "P Patel",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": false
+    },
+    {
+            "dob": 547776000000,
+            "fullName": "Kieron Pollard",
+            "nationality": "West Indian",
+            "playerId": 210,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "K Pollard",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": false
+    },
+    {
+            "dob": 812592000000,
+            "fullName": "Nicholas Pooran",
+            "nationality": "West Indian",
+            "playerId": 1703,
+            "price": 750000,
+            "rightArmBat": false,
+            "rightArmBowl": true,
+            "role": [
+        "keeper",
+        "batsman"
+            ],
+            "shortName": "N Pooran",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": false
+    },
+    {
+            "dob": 749088000000,
+            "fullName": "Deepak Punia",
+            "nationality": "Indian",
+            "playerId": 3184,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "D Punia",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": true
+    },
+    {
+            "dob": 756950400000,
+            "fullName": "Nitish Rana",
+            "nationality": "Indian",
+            "playerId": 2738,
+            "price": 650000,
+            "rightArmBat": false,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "N Rana",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": true
+    },
+    {
+            "dob": 496281600000,
+            "fullName": "Ambati Rayudu",
+            "nationality": "Indian",
+            "playerId": 100,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "A Rayudu",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": false
+    },
+    {
+            "dob": 751248000000,
+            "fullName": "Jitesh Sharma",
+            "nationality": "Indian",
+            "playerId": 3185,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "keeper",
+        "batsman"
+            ],
+            "shortName": "J Sharma",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": true
+    },
+    {
+            "dob": 561945600000,
+            "fullName": "Karn Sharma",
+            "nationality": "Indian",
+            "playerId": 1118,
+            "price": 750000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "K Sharma",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": false
+    },
+    {
+            "dob": 475459200000,
+            "fullName": "Lendl Simmons",
+            "nationality": "West Indian",
+            "playerId": 595,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "L Simmons",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": false
+    },
+    {
+            "dob": 597801600000,
+            "fullName": "Tim Southee",
+            "nationality": "New Zealander",
+            "playerId": 307,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "T Southee",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": false
+    },
+    {
+            "dob": 758678400000,
+            "fullName": "Jagadeesha Suchith",
+            "nationality": "Indian",
+            "playerId": 2741,
+            "price": 650000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "J Suchith",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": true
+    },
+    {
+            "dob": 630979200000,
+            "fullName": "Saurabh Tiwary",
+            "nationality": "Indian",
+            "playerId": 163,
+            "price": 700000,
+            "rightArmBat": false,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "S Tiwary",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": false
+    },
+    {
+            "dob": 445392000000,
+            "fullName": "Vinay Kumar",
+            "nationality": "Indian",
+            "playerId": 166,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "V Kumar",
+            "teamAbbreviation": "MI",
+            "teamId": 6,
+            "uncapped": false
+    },
+    {
+            "dob": 371865600000,
+            "fullName": "Gautam Gambhir",
+            "nationality": "Indian",
+            "playerId": 84,
+            "price": 950000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "G Gambhir",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": false
+    },
+    {
+            "dob": 617068800000,
+            "fullName": "Trent Boult",
+            "nationality": "New Zealander",
+            "playerId": 969,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "T Boult",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": false
+    },
+    {
+            "dob": 522374400000,
+            "fullName": "Colin de Grandhomme",
+            "nationality": "New Zealander",
+            "playerId": 820,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": false,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "C Grandhomme",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": false
+    },
+    {
+            "dob": 602726400000,
+            "fullName": "Darren Bravo",
+            "nationality": "West Indian",
+            "playerId": 184,
+            "price": 850000,
+            "rightArmBat": false,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "DM Bravo",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": false
+    },
+    {
+            "dob": 598924800000,
+            "fullName": "Piyush Chawla",
+            "nationality": "Indian",
+            "playerId": 76,
+            "price": 850000,
+            "rightArmBat": false,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "P Chawla",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": false
+    },
+    {
+            "dob": 560908800000,
+            "fullName": "Nathan Coulter-Nile",
+            "nationality": "Australian",
+            "playerId": 840,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "N Coulter-Nile",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": false
+    },
+    {
+            "dob": 635385600000,
+            "fullName": "Rishi Dhawan",
+            "nationality": "Indian",
+            "playerId": 1088,
+            "price": 700000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "R Dhawan",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": false
+    },
+    {
+            "dob": 716601600000,
+            "fullName": "Sayan Ghosh",
+            "nationality": "Indian",
+            "playerId": 3832,
+            "price": 600000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "S Ghosh",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": true
+    },
+    {
+            "dob": 528163200000,
+            "fullName": "Sheldon Jackson",
+            "nationality": "Indian",
+            "playerId": 1116,
+            "price": 700000,
+            "rightArmBat": true,
+            "rightArmBowl": false,
+            "role": [
+        "keeper",
+        "batsman"
+            ],
+            "shortName": "S Jackson",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": true
+    },
+    {
+            "dob": 601862400000,
+            "fullName": "Ishank Jaggi",
+            "nationality": "Indian",
+            "playerId": 37,
+            "price": 700000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "I Jaggi",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": true
+    },
+    {
+            "dob": 787363200000,
+            "fullName": "Kuldeep Yadav",
+            "nationality": "Indian",
+            "playerId": 261,
+            "price": 750000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "K Yadav",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": false
+    },
+    {
+            "dob": 639705600000,
+            "fullName": "Chris Lynn",
+            "nationality": "Australian",
+            "playerId": 179,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": false,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "C Lynn",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": false
+    },
+    {
+            "dob": 580608000000,
+            "fullName": "Sunil Narine",
+            "nationality": "West Indian",
+            "playerId": 203,
+            "price": 1000000,
+            "rightArmBat": false,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "S Narine",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": false
+    },
+    {
+            "dob": 621388800000,
+            "fullName": "Manish Pandey",
+            "nationality": "Indian",
+            "playerId": 123,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "M Pandey",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": false
+    },
+    {
+            "dob": 406339200000,
+            "fullName": "Yusuf Pathan",
+            "nationality": "Indian",
+            "playerId": 96,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "Y Pathan",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": false
+    },
+    {
+            "dob": 743385600000,
+            "fullName": "Rovman Powell",
+            "nationality": "West Indian",
+            "playerId": 3333,
+            "price": 800000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "R Powell",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": false
+    },
+    {
+            "dob": 754963200000,
+            "fullName": "Ankit Rajpoot",
+            "nationality": "Indian",
+            "playerId": 1106,
+            "price": 650000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "A Rajpoot",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": true
+    },
+    {
+            "dob": 578275200000,
+            "fullName": "Andre Russell",
+            "injured": true,
+            "nationality": "West Indian",
+            "playerId": 177,
+            "price": 950000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "A Russell",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": false
+    },
+    {
+            "dob": 905904000000,
+            "fullName": "R Sanjay Yadav",
+            "nationality": "Indian",
+            "playerId": 3833,
+            "price": 650000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "R Sanjay Yadav",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": false
+    },
+    {
+            "dob": 543542400000,
+            "fullName": "Shakib Al Hasan",
+            "nationality": "Bangladeshi",
+            "playerId": 201,
+            "price": 1000000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "S Al Hasan",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": false
+    },
+    {
+            "dob": 500515200000,
+            "fullName": "Robin Uthappa",
+            "nationality": "Indian",
+            "playerId": 127,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "keeper",
+        "batsman"
+            ],
+            "shortName": "R Uthappa",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": false
+    },
+    {
+            "dob": 604800000000,
+            "fullName": "Chris Woakes",
+            "nationality": "English",
+            "playerId": 967,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "C Woakes",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": false
+    },
+    {
+            "dob": 653270400000,
+            "fullName": "Suryakumar Yadav",
+            "nationality": "Indian",
+            "playerId": 108,
+            "price": 800000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "S Yadav",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": true
+    },
+    {
+            "dob": 562118400000,
+            "fullName": "Umesh Yadav",
+            "nationality": "Indian",
+            "playerId": 59,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "U Yadav",
+            "teamAbbreviation": "KKR",
+            "teamId": 5,
+            "uncapped": false
+    },
+    {
+            "dob": 625622400000,
+            "fullName": "Varun Aaron",
+            "nationality": "Indian",
+            "playerId": 61,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "V Aaron",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": false
+    },
+    {
+            "dob": 417916800000,
+            "fullName": "Hashim Amla",
+            "nationality": "South African",
+            "playerId": 456,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "H Amla",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": false
+    },
+    {
+            "dob": 383529600000,
+            "fullName": "Anureet Singh",
+            "nationality": "Indian",
+            "playerId": 412,
+            "price": 700000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "Anureet Singh",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": true
+    },
+    {
+            "dob": 909273600000,
+            "fullName": "Armaan Jaffer",
+            "nationality": "Indian",
+            "playerId": 2966,
+            "price": 650000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "A Jaffer",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": true
+    },
+    {
+            "dob": 766195200000,
+            "fullName": "KC Cariappa",
+            "nationality": "Indian",
+            "playerId": 2743,
+            "price": 700000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "KC Cariappa",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": true
+    },
+    {
+            "dob": 528422400000,
+            "fullName": "Martin Guptill",
+            "nationality": "New Zealander",
+            "playerId": 431,
+            "price": 950000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "M Guptill",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": false
+    },
+    {
+            "dob": 646617600000,
+            "fullName": "Gurkeerat Mann Singh",
+            "nationality": "Indian",
+            "playerId": 253,
+            "price": 800000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "GM Singh",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": false
+    },
+    {
+            "dob": 692668800000,
+            "fullName": "Matt Henry",
+            "nationality": "New Zealander",
+            "playerId": 1505,
+            "price": 750000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "M Henry",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": false
+    },
+    {
+            "dob": 426556800000,
+            "fullName": "Shaun Marsh",
+            "nationality": "Australian",
+            "playerId": 191,
+            "price": 950000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "S Marsh",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": false
+    },
+    {
+            "dob": 592790400000,
+            "fullName": "Glenn Maxwell",
+            "nationality": "Australian",
+            "playerId": 282,
+            "price": 1050000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "G Maxwell",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": false
+    },
+    {
+            "dob": 613440000000,
+            "fullName": "David Miller",
+            "nationality": "South African",
+            "playerId": 187,
+            "price": 1000000,
+            "rightArmBat": false,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "D Miller",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": false
+    },
+    {
+            "dob": 526694400000,
+            "fullName": "Eoin Morgan",
+            "nationality": "English",
+            "playerId": 197,
+            "price": 950000,
+            "rightArmBat": false,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "E Morgan",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": false
+    },
+    {
+            "dob": 784339200000,
+            "fullName": "Nikhil Naik",
+            "nationality": "Indian",
+            "playerId": 2732,
+            "price": 750000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "keeper",
+        "batsman"
+            ],
+            "shortName": "N Naik",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": true
+    },
+    {
+            "dob": 675302400000,
+            "fullName": "T Natarajan",
+            "nationality": "Indian",
+            "playerId": 3831,
+            "price": 700000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "T Natarajan",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": true
+    },
+    {
+            "dob": 759024000000,
+            "fullName": "Axar Patel",
+            "nationality": "Indian",
+            "playerId": 1113,
+            "price": 850000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "A Patel",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": false
+    },
+    {
+            "dob": 467424000000,
+            "fullName": "Wriddhiman Saha",
+            "nationality": "Indian",
+            "playerId": 16,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "keeper",
+        "batsman"
+            ],
+            "shortName": "W Saha",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": false
+    },
+    {
+            "dob": 493430400000,
+            "fullName": "Pradeep Sahu",
+            "nationality": "Indian",
+            "playerId": 2745,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "P Sahu",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": false
+    },
+    {
+            "dob": 440726400000,
+            "fullName": "Darren Sammy",
+            "nationality": "West Indian",
+            "playerId": 589,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "allrounder"
+            ],
+            "shortName": "D Sammy",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": false
+    },
+    {
+            "dob": 737683200000,
+            "fullName": "Sandeep Sharma",
+            "nationality": "Indian",
+            "playerId": 1112,
+            "price": 800000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "Sandeep Sharma",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": false
+    },
+    {
+            "dob": 693100800000,
+            "fullName": "Mohit Sharma",
+            "nationality": "Indian",
+            "playerId": 1107,
+            "price": 800000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "M Sharma",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": false
+    },
+    {
+            "dob": 876614400000,
+            "fullName": "Rinku Singh",
+            "nationality": "Indian",
+            "playerId": 3830,
+            "price": 650000,
+            "rightArmBat": false,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "R Singh",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": true
+    },
+    {
+            "dob": 619228800000,
+            "fullName": "Marcus Stoinis",
+            "nationality": "Australian",
+            "playerId": 964,
+            "price": 900000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "MP Stoinis",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": false
+    },
+    {
+            "dob": 664502400000,
+            "fullName": "Swapnil Singh",
+            "nationality": "Indian",
+            "playerId": 3180,
+            "price": 700000,
+            "rightArmBat": true,
+            "rightArmBowl": false,
+            "role": [
+        "bowler"
+            ],
+            "shortName": "S Singh",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": true
+    },
+    {
+            "dob": 737856000000,
+            "fullName": "Rahul Tewatia",
+            "nationality": "Indian",
+            "playerId": 1749,
+            "price": 650000,
+            "rightArmBat": false,
+            "rightArmBowl": false,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "R Tewatia",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": true
+    },
+    {
+            "dob": 449625600000,
+            "fullName": "Murali Vijay",
+            "injured": true,
+            "nationality": "Indian",
+            "playerId": 7,
+            "price": 950000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "M Vijay",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": false
+    },
+    {
+            "dob": 742953600000,
+            "fullName": "Manan Vohra",
+            "nationality": "Indian",
+            "playerId": 1085,
+            "price": 850000,
+            "rightArmBat": true,
+            "rightArmBowl": true,
+            "role": [
+        "batsman"
+            ],
+            "shortName": "M Vohra",
+            "teamAbbreviation": "KXIP",
+            "teamId": 4,
+            "uncapped": true
+    }
+    ]
+}
+
